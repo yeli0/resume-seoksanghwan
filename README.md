@@ -44,5 +44,5 @@
 * 채널 비밀번호 생성시 비밀번호는 보안을 위하여 pbkdf2이용하여 해쉬처리를 하였습니다.
 * 서버는 node.js, express, mongoose를 사용하여 구현 하였습니다.
 * liowebRtc라는 webrtc기반에 라이브러리를 사용하여, 화상회의 기능을 구현 하였습니다.
-<samll>asdasd</small>
+<p style='color:red'>This is some red text.</p>
 
