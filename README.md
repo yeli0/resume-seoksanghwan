@@ -18,7 +18,6 @@
 
 ## 경력사항
 ### ‣ Uzmex(프로토타입)
-- URL : <https://www.whatthemex.com/><br />
 - Youtube : <https://www.youtube.com/watch?v=Y0NS99Dzczc&feature=youtu.be>
 
 * Uzmex는 비트코인 마진거래소 입니다.
