@@ -21,9 +21,9 @@
 ### videos
 * * *
 ***GitHub*** 
-- Client : <https://github.com/seoksanghwan/videosConf-client>
-- Server : [https://github.com/seoksanghwan/videosConf-server](https://github.com/seoksanghwan/videosConf-server) - (2018.10)
-- URL : [https://www.videos-conf.com/](https://www.videos-conf.com/)
+- Client : <https://github.com/seoksanghwan/videosConf-client>
+- Server : <https://github.com/seoksanghwan/videosConf-server> - (2018.10)
+- URL : <https://www.videos-conf.com/>
 
 * Videos는 연결된 웹켐으로 채널을 생성하여 간편하게 여러명과 동시에 화상채팅을 할 수 있는 서비스입니다.
 * 로그인은 Firebase Auth를 이용하였습니다(google id로 로그인)
