@@ -68,7 +68,7 @@
 
 ### ‣ Videos
 - Client : <https://github.com/seoksanghwan/videosConf-client><br />
-- Server : <https://github.com/seoksanghwan/videosConf-server> - (2018.10)<br />
+- Server : <https://github.com/seoksanghwan/videosConf-server><br />
 - URL : <https://www.videos-conf.com/><br />
 - Youtube : <https://www.youtube.com/watch?v=7AIV9IS0oKw>
 
@@ -99,3 +99,8 @@
 - Server: Node.js, Express, MongoDB, Mongoose, JSON Web Token Authentication, socket.io
 
 
+## 이전경력(웹 퍼블리셔)
+- 총 4년 퍼블리셔 경력(2014.07 ~ 2018.09)
+- 퍼블리셔 포틀폴리오 주소 : <http://seokweb.com/portfolio/>
+- 경력상세 : <https://github.com/seoksanghwan/prev-Project-List/blob/master/README.md>
+- 사용언어 : HTML / HTML5 / CSS / CSS3 / Javascript / Jquery
