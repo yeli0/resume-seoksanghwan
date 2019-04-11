@@ -1,3 +1,4 @@
-# 석상환 **이력서** ### Phone : 010-4921-7224 Email : [bdoi2214@gmail.com](bdoi2214@gmail.com)
+# 석상환 **이력서** 
+### Phone : 010-4921-7224 Email : [bdoi2214@gmail.com](bdoi2214@gmail.com)
 
 
