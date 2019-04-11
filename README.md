@@ -17,11 +17,16 @@
 - Node.js, Express, MongoDB
 
 ## 경력사항
-### ‣ videos
+### ‣ Uzmex(프로토타입)
+- URL : <https://www.whatthemex.com/><br />
+- Youtube : <https://www.youtube.com/watch?v=Y0NS99Dzczc&feature=youtu.be>
+
+### ‣ Videos
 ***GitHub*** <br />
 - Client : <https://github.com/seoksanghwan/videosConf-client><br />
 - Server : <https://github.com/seoksanghwan/videosConf-server> - (2018.10)<br />
 - URL : <https://www.videos-conf.com/><br />
+- Youtube : <https://www.youtube.com/watch?v=7AIV9IS0oKw>
 
 * Videos는 연결된 웹켐으로 채널을 생성하여 간편하게 여러명과 동시에 화상채팅을 할 수 있는 서비스입니다.
 * 로그인은 Firebase Auth를 이용하였습니다(google id로 로그인)
@@ -44,5 +49,8 @@
 * 채널 비밀번호 생성시 비밀번호는 보안을 위하여 pbkdf2이용하여 해쉬처리를 하였습니다.
 * 서버는 node.js, express, mongoose를 사용하여 구현 하였습니다.
 * liowebRtc라는 webrtc기반에 라이브러리를 사용하여, 화상회의 기능을 구현 하였습니다.
-<p style='font-size:15px'>This is some red text.</p>
+*_기술스택_*
+- Client: React, Redux, React Router, Firebase Authentication, Sokcet.io-client, lioWebRtc
+- Server: Node.js, Express, MongoDB, Mongoose, JSON Web Token Authentication, socket.io
+
 
