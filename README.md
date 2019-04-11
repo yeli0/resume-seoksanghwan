@@ -1,4 +1,5 @@
 # 석상환 **이력서** 
+
 ## 소개 
 <img src="https://github.com/seoksanghwan/seoksanghwa-resume/blob/master/%E1%84%89%E1%85%A5%E1%86%A8%E1%84%89%E1%85%A1%E1%86%BC%E1%84%92%E1%85%AA%E1%86%AB.jpg?raw=true" alt="석상환" width="150" />
 
@@ -17,7 +18,6 @@
 
 ## 경력사항
 ### videos
-* * *
 ***GitHub*** <br />
 - Client : <https://github.com/seoksanghwan/videosConf-client><br />
 - Server : <https://github.com/seoksanghwan/videosConf-server> - (2018.10)<br />
