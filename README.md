@@ -21,7 +21,7 @@
 ### videos
 * * *
 ***GitHub*** <br />
-- Client : <https://github.com/seoksanghwan/videosConf-client><br /><br />
+- Client : <https://github.com/seoksanghwan/videosConf-client><br />
 - Server : <https://github.com/seoksanghwan/videosConf-server> - (2018.10)<br />
 - URL : <https://www.videos-conf.com/><br />
 
