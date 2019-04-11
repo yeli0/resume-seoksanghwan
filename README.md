@@ -51,7 +51,7 @@
 * liowebRtc라는 webrtc기반에 라이브러리를 사용하여, 화상회의 기능을 구현 하였습니다.
 
 **_기술스택_**<br />
-- Client: React, Redux, React Router, Firebase Authentication, Sokcet.io-client, lioWebRtc
+- Client: React, Redux, React Router, Firebase Authentication, Sokcet.io-client, lioWebRtc<br />
 - Server: Node.js, Express, MongoDB, Mongoose, JSON Web Token Authentication, socket.io
 
 
