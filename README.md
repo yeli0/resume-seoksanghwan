@@ -17,5 +17,5 @@
 - Node.js, Express, MongoDB
 
 ### 경력사항
-#### ● videos
+#### - videos
 **GitHub** _ Client : [https://github.com/seoksanghwan/videosConf-client](https://github.com/seoksanghwan/videosConf-client), Server : [https://github.com/seoksanghwan/videosConf-server](https://github.com/seoksanghwan/videosConf-server) - (2018.10)
