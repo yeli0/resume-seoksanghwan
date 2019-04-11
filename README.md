@@ -19,3 +19,27 @@
 ### 경력사항
 #### - videos
 **GitHub** _ Client : [https://github.com/seoksanghwan/videosConf-client](https://github.com/seoksanghwan/videosConf-client), Server : [https://github.com/seoksanghwan/videosConf-server](https://github.com/seoksanghwan/videosConf-server) - (2018.10)
+
+URL : [https://www.videos-conf.com/](https://www.videos-conf.com/)
+* Videos는 연결된 웹켐으로 채널을 생성하여 간편하게 여러명과 동시에 화상채팅을 할 수 있는 서비스입니다.
+* 로그인은 Firebase Auth를 이용하였습니다(google id로 로그인)
+* 메인페이지에서 채널을 생성 할 수 있습니다
+* 채널 생성시 제목은 공백만으로는 제목을 작성 할 수 없습니다.
+* 채널 생성시 패스워드 6글자 이상 16글자 이하로 숫자, 문자, 특수문자 조합으로 이루어져야합니다.
+* 로그인이 되어있지 않으면 방 생성 및 채널리스트에 접근 할 수 없게 메시지가 뜨며, 주소창으로 접근 할 시, 메인으로 이동하게 하였습니다.
+* 채널을 생성 후 채널 리스테에 들어가면 삭제 버튼은 주최자만 확인 가능 합니다.
+* 화상회의 도중 주최자가 방을 나가 삭제 할 경우 화상회의 채널에 있던 사람들은 자동적으로 방에서 나가지면 warning페이지를 거쳐 리스트로 갑니다.
+* about페이지에서 채널을 검색을하여, 있는 채널이면 비밀번호를 입력하고 들어 갈 수 있습니다. 없는 채널이면 경고문이 표시됩니다.
+* 채널에 없는 제목을 주소창에 입력하게 되면 잘못된 접근이라는 warning페이지를 이동하게끔 설정 하였습니다.
+* 채널에 있는 페이지일 경우 패스워드를 입력을 하지 않고, 주소창으로 접근을하게되면, warning페이지를 이동하게끔 설정 하였습니다.
+* 참여한 채널에서 mute를 클릭하게되면 상대방에게 소리가 전달이 안됩니다.
+* 참여한 채널에서 unmute를 클릭하게되면 상대방에게 소리가 전달이 됩니다.
+* 채널은 실시간으로 생성, 삭제가 방영됩니다.
+* Redux를 사용하여 state관리를 제 나름대로 체계적으로 해봤습니다.
+* React, Webpack, CSS을 사용한 컴포넌트 베이스 UI 아키텍처를 구현하였습니다.
+* Socket.io를 활용하여 실시간 업데이트 및 삭제를 구현하였습니다.
+* JWT를 사용하여 로그인정보를 해쉬처리하였습니다.
+* 채널 비밀번호 생성시 비밀번호는 보안을 위하여 pbkdf2이용하여 해쉬처리를 하였습니다.
+* 서버는 node.js, express, mongoose를 사용하여 구현 하였습니다.
+* liowebRtc라는 webrtc기반에 라이브러리를 사용하여, 화상회의 기능을 구현 하였습니다.
+
