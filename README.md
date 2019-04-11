@@ -18,10 +18,10 @@
 
 ### 경력사항
 
-##videos
+### videos
 * * *
 ***GitHub*** 
-- Client : [https://github.com/seoksanghwan/videosConf-client](https://github.com/seoksanghwan/videosConf-client)
+- Client : <https://github.com/seoksanghwan/videosConf-client>
 - Server : [https://github.com/seoksanghwan/videosConf-server](https://github.com/seoksanghwan/videosConf-server) - (2018.10)
 - URL : [https://www.videos-conf.com/](https://www.videos-conf.com/)
 
