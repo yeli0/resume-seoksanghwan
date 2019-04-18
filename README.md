@@ -17,6 +17,15 @@
 - Node.js, Express, MongoDB
 
 ## 경력사항
+### ‣ AipeBot
+- URL : <http://aipebot.com><br />
+
+* aipebot은 ai bot모델의 데시보드 서비스 페이지 입니다.
+
+**_기술스택_**<br />
+- Client: React, React-Hooks, Redux, React Router, axios, Scss
+
+* * *
 ### ‣ Uzmex(프로토타입)
 - Youtube : <https://www.youtube.com/watch?v=Y0NS99Dzczc&feature=youtu.be>
 
