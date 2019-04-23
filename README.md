@@ -21,6 +21,8 @@
 - URL : <http://aipebot.com><br />
 
 * aipebot은 ai bot모델의 데시보드 서비스 페이지 입니다.
+* Aipebot은 Ai bot list들을 보여주는 상세 대쉬보드 페이지입니다. AIpebot은 tradelog data를 보여줍니다.
+* AIpebot은 daliy graph, bot tarnd 그래플 보여줍니다.
 
 **_기술스택_**<br />
 - Client: React, React-Hooks, Redux, React Router, axios, Scss
