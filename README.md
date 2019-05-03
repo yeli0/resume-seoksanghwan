@@ -9,7 +9,7 @@
 - Github : [seoksanghwan](https://github.com/seoksanghwan?tab=repositories)
 
 ## 이력사항
-- 2018년 9월까지 4년간 웹 퍼블리셔 재직(하단 기술)
+- 2018년 9월까지 4년간 웹 퍼블리셔 재직(하단 기술)123
 - Frontend Bootcamp [Vanilla Coding](https://www.vanillacoding.co/)에서 Javascript Bootcamp Course **프레임워크코스까지 수료**
 - 자바스크립트 기본구조(Closure, Scope, Hoisting 등)
 - 객체지향 프로그래밍, 함수형 프로그래밍, 비동기 프로그래밍 등
